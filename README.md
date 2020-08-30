@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am crazy about **Apple** products
 
 
-• [Twitter](https://twitter.com/ashiishkarhade) • [LinkedIn](https://www.linkedin.com/in/ashiishkarhade)
-
 <!--
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
