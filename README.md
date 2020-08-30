@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />]
-[<img align="left" alt="PyTorch" width="26px" src="https://avatars0.githubusercontent.com/u/21003710?s=200&v=4" />]
-[<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][]
+[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />][]
+[<img align="left" alt="PyTorch" width="26px" src="https://avatars0.githubusercontent.com/u/21003710?s=200&v=4" />][]
+[<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />][]
 [<img align="left" alt="Keras" width="26px" src="https://avatars2.githubusercontent.com/u/34455048?s=200&v=4" />]
 [<img align="left" alt="Numpy" width="26px" src="https://avatars3.githubusercontent.com/u/288276?s=200&v=4" />]
 [<img align="left" alt="Pandas" width="26px" src="https://avatars1.githubusercontent.com/u/21206976?s=200&v=4" />]
