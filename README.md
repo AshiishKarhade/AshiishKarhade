@@ -1,9 +1,11 @@
-### Hi there, I am Ashish Karhade 👋👋
-[![Twitter Follow](https://img.shields.io/twitter/follow/ashiishkarhade?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fashiishkarhade&screen_name=ashiishkarhade)
 <!--
 **AshiishKarhade/AshiishKarhade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
+
+### Hi there, I am Ashish Karhade 👋👋
+[![Twitter Follow](https://img.shields.io/twitter/follow/ashiishkarhade?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fashiishkarhade&screen_name=ashiishkarhade)
+
 
 - 🔭 I’m currently working on **Machine Learning and Deep Learning** to help in EdTech industries.
 - 🌱 I’m currently learning **NLP & CV.**
@@ -23,10 +25,10 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="ashiishkarhade.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://ashiishkarhade.github.io]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/ashiishkarhade]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/ashiishkarhade]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/ashiishkarhade]
+[<img align="left" alt="ashiishkarhade.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ashiishkarhade | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ashiishkarhade | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ashiishkarhade | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <!--
@@ -60,12 +62,8 @@ Here are some ideas to get you started:
 
 </details>
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[website]: https://ashiishkarhade.github.io
+[twitter]: https://twitter.com/ashiishkarhade
+[youtube]: https://youtube.com/ashiishkarhade
+[instagram]: https://instagram.com/ashiishkarhade
+[linkedin]: https://linkedin.com/in/ashiishkarhade
