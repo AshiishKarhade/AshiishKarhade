@@ -44,12 +44,8 @@ Here are some ideas to get you started:
 <br />
 
 
-<details>
-  <summary>:zap: Github Stats</summary>
+<img align="left" alt="codeSTACKr's Github Stats" src="https://vercel.com/ashiishkarhade/github-readme-stats/api?username=AshiishKarhade&show_icons=true&hide_border=true" />
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://vercel.com/ashiishkarhade/github-readme-stats/api?username=AshiishKarhade&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://ashiishkarhade.github.io
 [twitter]: https://twitter.com/ashiishkarhade
