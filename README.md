@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="ashiishkarhade.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ashiishkarhade.herokuapp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ashiishkarhade | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ashiishkarhade | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ashiishkarhade | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 </details>
 -->
 
-[website]: https://ashiishkarhade.github.io
+[website]: https://ashiishkarhade.herokuapp.com
 [twitter]: https://twitter.com/ashiishkarhade
 [youtube]: https://youtube.com/ashiishkarhade
 [instagram]: https://instagram.com/ashiishkarhade
