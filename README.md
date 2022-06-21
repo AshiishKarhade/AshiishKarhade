@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=AshiishKarhade&color=green)
 
-- 🔭 I’m currently working on **Machine Learning and Deep Learning** to help in EdTech industries.
-- 🌱 I’m currently learning **NLP & CV.**
-- 👯 I’m looking to collaborate on bulding communities, building startup 😉
-- 💬 Ask me about Data Science, Machine Learning, Career, etc.
+- 🔭 I’m currently working as **Software Development Engineer** at Credit-Suisse.
+- 🌱 I’m currently learning **Go Lang & DevOps tools.**
+- 👯 I’m looking to collaborate on bulding communities and contribute to open source.
+- 💬 Ask me about Python, Data Science, Machine Learning, Career, etc.
 - 📫 How to reach me: [akarhade5@gmail.com](mailto:akarhade5@gmail.com)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am crazy about **Apple** products
