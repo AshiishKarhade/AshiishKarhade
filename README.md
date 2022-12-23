@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as **Software Development Engineer** at Credit-Suisse.
 - 🌱 I’m currently learning **Go Lang & DevOps tools.**
 - 👯 I’m looking to collaborate on bulding communities and contribute to open source.
-- 💬 Ask me about Python, Data Science, Machine Learning, Career, etc.
+- 💬 Ask me about Python, Golang, DevOps, Microservices, etc
 - 📫 How to reach me: [akarhade5@gmail.com](mailto:akarhade5@gmail.com)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am crazy about **Apple** products
@@ -36,10 +36,12 @@ Here are some ideas to get you started:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="GO" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="PyTorch" width="26px" src="https://avatars0.githubusercontent.com/u/21003710?s=200&v=4" />
-<img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="Keras" width="26px" src="https://avatars2.githubusercontent.com/u/34455048?s=200&v=4"/>
-<img align="left" alt="Numpy" width="26px" src="https://avatars3.githubusercontent.com/u/288276?s=200&v=4" />
+
+<img align="left" alt="Bash" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" />
+<img align="left" alt="Jenkins" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" />
+<img align="left" alt="Gitlab CI" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />
+<img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
+
 <img align="left" alt="Pandas" width="26px" src="https://avatars1.githubusercontent.com/u/21206976?s=200&v=4" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
