@@ -41,14 +41,21 @@ Here are some ideas to get you started:
 <img align="left" alt="Jenkins" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" />
 <img align="left" alt="Gitlab CI" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" />
 <img align="left" alt="Docker" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
+<img align="left" alt="Kubernetes" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" />
+<img align="left" alt="Terraform" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" />
+<img align="left" alt="Ansible" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" />
+<img align="left" alt="Prometheus" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" />
+<img align="left" alt="Grafana" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/graffana/graffana-original.svg" />
+<img align="left" alt="RabbitMQ" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" />
+<img align="left" alt="Kafka" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" />
 
-<img align="left" alt="Pandas" width="26px" src="https://avatars1.githubusercontent.com/u/21206976?s=200&v=4" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Flask" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
+<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" />
+<img align="left" alt="FastAPI" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" />
+
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Redis" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" />
+
 <br />
 
 <!--
