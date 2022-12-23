@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="ashiishkarhade.herokuapp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="ashiishkarhade | Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />][twitter]
 [<img align="left" alt="ashiishkarhade | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
-[<img align="left" alt="ashiishkarhade | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ashiishkarhade | Instagram" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" />][instagram]
+[<img align="left" alt="ashiishkarhade | Medium" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Medium.svg" />][medium]
 
 <br />
 
@@ -70,3 +71,4 @@ Here are some ideas to get you started:
 [youtube]: https://youtube.com/ashiishkarhade
 [instagram]: https://instagram.com/ashiishkarhade
 [linkedin]: https://linkedin.com/in/ashiishkarhade
+[medium]: https://medium.com/@ashiishkarhade
