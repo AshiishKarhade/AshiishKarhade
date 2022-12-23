@@ -45,8 +45,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Terraform" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" />
 <img align="left" alt="Ansible" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" />
 <img align="left" alt="Prometheus" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg" />
-<img align="left" alt="Grafana" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/graffana/graffana-original.svg" />
-<img align="left" alt="RabbitMQ" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/rabbitmq/rabbitmq-original.svg" />
+<img align="left" alt="Grafana" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" />
 <img align="left" alt="Kafka" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg" />
 
 <img align="left" alt="Flask" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" />
@@ -55,6 +54,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Redis" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" />
+<img align="left" alt="Postgres" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" />
 
 <br />
 
