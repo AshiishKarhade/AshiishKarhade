@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=AshiishKarhade&color=green)
 
 - 🔭 I’m currently working as **Software Development Engineer** at Credit-Suisse.
-- 🌱 I’m currently learning **Go Lang & DevOps tools.**
+- 🌱 I’m currently working on Devops and Backend Engineering
 - 👯 I’m looking to collaborate on bulding communities and contribute to open source.
 - 💬 Ask me about Python, Golang, DevOps, Microservices, etc
 - 📫 How to reach me: [akarhade5@gmail.com](mailto:akarhade5@gmail.com)
