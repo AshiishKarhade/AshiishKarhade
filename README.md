@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 -->
 
 ![Ashish's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ashiishkarhade&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ashiishkarhade&hide=TeX&layout=compact)
 
 ### Connect with me:
 
