@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="ashiishkarhade.herokuapp.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="ashiishkarhade.onrender.com" width="22px" src="https://raw.githubusercontent.com/gist/prrashi/8e7e9ead9b56db007f99880afd1aeaf0/raw/74fb246acc82edfe31c1a4ef81165e9f640ae212/globe.svg" />][website]
 [<img align="left" alt="ashiishkarhade | Twitter" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" />][twitter]
 [<img align="left" alt="ashiishkarhade | LinkedIn" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="ashiishkarhade | Instagram" width="22px" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" />][instagram]
@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 </details>
 -->
 
-[website]: https://ashiishkarhade.herokuapp.com
+[website]: https://ashiishkarhade.onrender.com
 [twitter]: https://twitter.com/ashiishkarhade
 [youtube]: https://youtube.com/ashiishkarhade
 [instagram]: https://instagram.com/ashiishkarhade
