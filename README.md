@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=AshiishKarhade&color=green)
 
-- 🔭 I’m currently working as **Software Development Engineer** at Credit-Suisse.
-- 🌱 I’m currently working on Devops and Backend Engineering
+- 🔭 I’m currently working as **Software Development Engineer** at UBS.
+- 🌱 I’m currently working on Full stack software developer, mostly contributing to backend in Java, Spring Boot and React.JS
 - 👯 I’m looking to collaborate on bulding communities and contribute to open source.
-- 💬 Ask me about Python, Golang, DevOps, Microservices, etc
+- 💬 Ask me about Java, GO, Python, DevOps, Microservices, Azure etc
 - 📫 How to reach me: [akarhade5@gmail.com](mailto:akarhade5@gmail.com)
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I am crazy about **Apple** products
